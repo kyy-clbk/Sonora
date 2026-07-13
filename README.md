@@ -34,5 +34,4 @@ Ingin mencoba aplikasi ini secara langsung? Silakan download versi terbarunya di
 
 ---
 
-### 📸 Tampilan Layar (Screenshots)
-*(Opsional: Nanti kamu bisa menambahkan hasil screenshot aplikasi dari HP kamu di sini dengan cara *drag & drop* gambarnya ke editor GitHub)*
+
