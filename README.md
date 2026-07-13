@@ -1,4 +1,4 @@
-# Sonora
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FA243C&height=200&section=header&text=Sonora%20Music%20Player&fontSize=50&fontColor=ffffff" width="100%" />
 </div>
